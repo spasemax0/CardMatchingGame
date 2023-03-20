@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //Author: spasemax0
-public class Hw4 {
+public class CardMatchingGame {
 
 	public static void main(String[] args) {
 
