@@ -1,9 +1,5 @@
 import java.util.Scanner;
-/* Author: Spase Maximillien Sandoval
- * Date: 2/20/23
- * Class: CSC 1060
- * Assignment: HW4
- */
+//Author: spasemax0
 public class Hw4 {
 
 	public static void main(String[] args) {
